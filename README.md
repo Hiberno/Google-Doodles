@@ -9,7 +9,7 @@ Preferably you should play the game on google.com but if for some reasons it is 
 or you wish not to be tracked (note that for now, the submitscore url is still used and it still loads the leaderboard from Google's servers, that may change later),
 you can do so here :
 
-https://gameblabla.github.io/doodle-champion-island-games-Google/
+hiberno.github.io/Google-Doodles/
 
 I would like to thank @potherca-blog for some of his interesting changes :P
 
